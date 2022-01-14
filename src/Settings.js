@@ -1,3 +1,3 @@
-const URL = "http://localhost:8080/CA2_Backend_war_exploded";
+const URL = "https://www.mustitokmak.com/SP4-Backend/";
 
 export { URL };
